@@ -1,14 +1,14 @@
 #include <stdio.h>
 int main() {    
 
-    int noo1, noo2, avg;
+    int nooo1, nooo2, avg;
     
     printf("Enter two integers: ");
-    scanf("%d %d", &noo, &noo2);
+    scanf("%d %d", &nooo, &nooo2);
 
     // calculate the sum
-    avg = noo1 + noo2;      
+    avg = nooo1 + nooo2;      
     
-    printf("%d + %d = %d", noo1, noo2, avg);
+    printf("%d + %d = %d", nooo1, nooo2, avg);
     return 0;
 }
