@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {    
-kitttuuuuuuuu
+kitttuuuuuuu
     int number1, number2, sum;
     
     printf("Enter two integers: ");
